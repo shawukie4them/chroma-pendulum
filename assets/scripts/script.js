@@ -1,5 +1,7 @@
 ;(function(){
-  const{gsap, gsap: {timeline, to, fromTo},} = window
+  const{gsap, 
+    gsap: {timeline, to, fromTo}
+  } = window
   const CURVES = {
     RIGHT:
       'M68.91306296.0087038s.77124463 23.43903799 6.34896852 36.75152668c9.014994 21.51630343 16.57659448 28.05805003 16.57659448 28.05805003',
